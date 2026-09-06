@@ -28,7 +28,7 @@ Além da faculdade, concluí os cursos de **Informática Master** (Microlins) e 
 ---
 
 ### 🎯 Objetivo
-Construir uma carreira sólida em **Tecnologia da Informação**, começando por estágio em **TI/Programação**, e evoluir para a área de **Cibersegurança**.  
+Construir uma carreira sólida em **Tecnologia da Informação**, e evoluir para a área de **Cibersegurança**.  
 
 ---
 
