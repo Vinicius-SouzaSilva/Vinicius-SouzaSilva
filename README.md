@@ -54,7 +54,3 @@ Hoje, minha rotina é guiada pela consistência dos estudos. Em vez de tentar ab
 Busco minha primeira oportunidade (Estágio ou vaga Júnior) em **QA** ou **Desenvolvimento** que seja tarde/noite pois minha faculdade é matutina, focado na região de Campinas-SP ou em modelo remoto. Meu objetivo é integrar uma equipe onde eu possa aplicar meu rigor analítico em testes funcionais, analisar códigos e garantir entregas robustas e seguras.
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
