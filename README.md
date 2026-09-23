@@ -15,11 +15,9 @@
 
 ## 🎯 Sobre Mim
 
-Me chamo Vinícius, sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (Previsão: 2029) e estou construindo uma base sólida para iniciar minha carreira em Tecnologia da Informação, com forte direcionamento para a área de **Testes e Qualidade de Software (QA)**.
+Me chamo Vinícius, sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (Previsão: 2029) e um entusiasta dedicado em tecnologia. Minha jornada começou de forma autodidata, mas logo percebi que, para ir longe, precisava de uma base estrutural forte. Por isso, decidi ingressar na faculdade e focar em aprender a lógica por trás dos sistemas, um passo de cada vez.
 
-Minha trajetória é moldada por experiências práticas em logística e atendimento, onde desenvolvi um alto nível de exigência para **auditoria, triagem e controle de padrões**. Hoje, traduzo essa visão sistêmica e atenção aos detalhes para o ambiente de TI, atuando na prevenção de falhas e na garantia de que as aplicações funcionem exatamente como o esperado.
-
-No ambiente acadêmico e em projetos pessoais, tenho me aprofundado em modelos de maturidade de processos e métricas de qualidade. Para dar suporte a essa visão analítica, estudo ativamente a estrutura do código através de **Lógica de Programação, Desenvolvimento Web e Banco de Dados**.
+Hoje, minha rotina é guiada pela consistência dos estudos. Em vez de tentar abraçar todas as ferramentas do mercado de uma vez, escolhi fortalecer meus fundamentos: estou afiando minha lógica de programação com C e construindo minha base em Desenvolvimento Web (HTML, CSS e JavaScript). Ao mesmo tempo, descobri um interesse pela área de **QA**, tema que venho pesquisando ativamente e estudando mais para ficar por dentro de tudo
 
 ---
 
@@ -43,11 +41,6 @@ No ambiente acadêmico e em projetos pessoais, tenho me aprofundado em modelos d
 
 <br/>
 
-### 🔍 Processos e Infraestrutura
-- Criação de Casos de Teste (Test Cases) e mapeamento de cenários[cite: 3].
-- Conhecimento em Redes e Sistemas Operacionais (Windows/Linux)[cite: 2, 4].
-- Versionamento com Git e GitHub[cite: 1, 2, 3].
-
 ---
 
 ## 📂 O que estou construindo
@@ -58,7 +51,7 @@ No ambiente acadêmico e em projetos pessoais, tenho me aprofundado em modelos d
 
 ## 🚀 Objetivo Atual
 
-Busco minha primeira oportunidade (Estágio ou vaga Júnior) em **Quality Assurance (QA)** ou **Desenvolvimento**, focado na região de Campinas-SP ou em modelo remoto. Meu objetivo é integrar uma equipe onde eu possa aplicar meu rigor analítico em testes funcionais, analisar códigos e garantir entregas robustas e seguras.
+Busco minha primeira oportunidade (Estágio ou vaga Júnior) em **QA** ou **Desenvolvimento** que seja tarde/noite pois minha faculdade é matutina, focado na região de Campinas-SP ou em modelo remoto. Meu objetivo é integrar uma equipe onde eu possa aplicar meu rigor analítico em testes funcionais, analisar códigos e garantir entregas robustas e seguras.
 
 <br/>
 
