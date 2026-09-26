@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👨🏻‍💻 Vinícius Souza Silva</h1>
-  <h3>Estudante de ADS na Fatec | Foco em Garantia de Qualidade (QA) e Desenvolvimento Web</h3>
+  <h3>Estudante de ADS na Fatec | Foco em Garantia de Qualidade (QA) e Desenvolvimento Fullstack</h3>
 </div>
 
 <br/>
