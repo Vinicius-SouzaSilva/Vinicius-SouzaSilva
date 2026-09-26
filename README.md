@@ -15,9 +15,8 @@
 
 ## 🎯 Sobre Mim
 
-Me chamo Vinícius, sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (Previsão: 2029) e um entusiasta dedicado em tecnologia. Minha jornada começou de forma autodidata, mas logo percebi que, para ir longe, precisava de uma base estrutural forte. Por isso, decidi ingressar na faculdade e focar em aprender a lógica por trás dos sistemas, um passo de cada vez.
-
-Hoje, minha rotina é guiada pela consistência dos estudos. Em vez de tentar abraçar todas as ferramentas do mercado de uma vez, escolhi fortalecer meus fundamentos: estou afiando minha lógica de programação com C e construindo minha base em Desenvolvimento Web (HTML, CSS e JavaScript). Ao mesmo tempo, descobri um interesse pela área de **QA**, tema que venho pesquisando ativamente e estudando mais para ficar por dentro de tudo
+Me chamo Vinícius, sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (Previsão: 2029) e um profissional focado na construção e validação de sistemas seguros. Minha jornada começou de forma autodidata, mas logo percebi que para ir longe no mercado era preciso uma base estrutural forte. Por isso, utilizo o ambiente acadêmico para consolidar a lógica e a engenharia por trás do código.
+ Escolhi fortalecer meus fundamentos: construindo minha base lógica em C, desenvolvendo APIs em C# (Backend) e criando interfaces com HTML, CSS e JavaScript (Front-end).
 
 ---
 
