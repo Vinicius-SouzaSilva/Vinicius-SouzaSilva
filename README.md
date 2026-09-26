@@ -23,8 +23,6 @@ Hoje, minha rotina é guiada pela consistência dos estudos. Em vez de tentar ab
 
 ## 🛠️ Minha Caixa de Ferramentas
 
-## 🛠️ Minha Caixa de Ferramentas
-
 <div align="center">
   
   **Backend** <br/>
