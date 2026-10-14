@@ -32,14 +32,9 @@ Meu objetivo é conquistar minha primeira oportunidade de **estágio em desenvol
 
 > Estou em constante aprendizado e busco consolidar cada tecnologia por meio de exercícios e projetos práticos.
 
-## Projetos
+## Projetos de portfólio em desenvolvimento.
 
-### Em desenvolvimento
-
-**Central de Chamados**
-Aplicação introdutória desenvolvida com HTML, CSS e JavaScript, planejada para praticar a criação e o gerenciamento de chamados, filtros e atualização de status.
-
-*O repositório será vinculado aqui após a publicação e a verificação do projeto.*
+Meu objetivo é aplicar os conceitos estudados em projetos próprios, documentar minha evolução e compartilhar soluções que demonstrem meu aprendizado.
 
 ## Objetivos atuais
 
