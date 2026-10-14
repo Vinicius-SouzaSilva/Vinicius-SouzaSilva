@@ -1,57 +1,30 @@
 <div align="center">
-  <h1>👨🏻‍💻 Vinícius Souza Silva</h1>
-  <h3>Estudante de ADS na Fatec | Foco em Garantia de Qualidade (QA) e Desenvolvimento Fullstack</h3>
+<h1>👨🏻‍💻 Vinícius Souza Silva</h1>
+<h3>Estudante de ADS na Fatec Campinas | Aprendendo Desenvolvimento de Software</h3>
+
+
+<a href="https://www.linkedin.com/in/vinícius-souza-silva/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-souza-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<br/>
-
-## 🎯 Sobre Mim
-
-Me chamo Vinícius, sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Campinas** (Previsão: 2029) e um profissional focado na construção e validação de sistemas seguros. Minha jornada começou de forma autodidata, mas logo percebi que para ir longe no mercado era preciso uma base estrutural forte. Por isso, utilizo o ambiente acadêmico para consolidar a lógica e a engenharia por trás do código.
- Escolhi fortalecer meus fundamentos: construindo minha base lógica em C, desenvolvendo APIs em C# (Backend) e criando interfaces com HTML, CSS e JavaScript (Front-end).
-
----
-
-## 🛠️ Minha Caixa de Ferramentas
-
-<div align="center">
-  
-  **Backend** <br/>
-  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  
-  <br/><br/>
-  
-  **Front-end** <br/>
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  
-</div>
-
-<br/>
-
-<br/>
-
----
-
-## 📂 O que estou construindo
-
-- 🧪 **[Em Desenvolvimento]**
-
----
-
-## 🚀 Objetivo Atual
-
-Busco minha primeira oportunidade (Estágio ou vaga Júnior) em **QA** ou **Desenvolvimento** que seja tarde/noite pois minha faculdade é matutina, focado na região de Campinas-SP ou em modelo remoto. Meu objetivo é integrar uma equipe onde eu possa aplicar meu rigor analítico em testes funcionais, analisar códigos e garantir entregas robustas e seguras.
-
-<br/>
+🎯 Sobre Mim
+Estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas, com previsão de conclusão em agosto de 2029.
+Estou construindo meus fundamentos de programação, praticando lógica com C e desenvolvendo conhecimentos em tecnologias web. Meu objetivo é transformar o aprendizado em projetos próprios, evoluir tecnicamente e conquistar minha primeira oportunidade de estágio em desenvolvimento de software.
+🛠️ Tecnologias e estudos
+Lógica de programação e linguagens
+<img align="center" alt="C" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C — fundamentos de lógica de programação.
+<img align="center" alt="JavaScript" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript — conhecimentos introdutórios.
+<img align="center" alt="C#" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> C# — conhecimentos introdutórios.
+Desenvolvimento web
+<img align="center" alt="HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML e <img align="center" alt="CSS" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS — fundamentos de estrutura e estilização de páginas.
+<img align="center" alt="JavaScript" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript — estudando os fundamentos da linguagem e sua aplicação em páginas web.
+Outros conhecimentos
+<img align="center" alt="SQL" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> SQL — introdutório.
+💻 Fundamentos — informática, redes e sistemas operacionais.
+📂 Projetos
+🚧 Em construção
+Estou organizando meus estudos e desenvolvendo projetos para praticar os conceitos aprendidos.
+Central de Chamados: projeto introdutório em HTML, CSS e JavaScript. A publicação será adicionada quando o repositório estiver disponível.
+🚀 Objetivo profissional
+Busco minha primeira oportunidade de estágio em desenvolvimento de software, na qual possa aprender com profissionais experientes, contribuir com a equipe e desenvolver minhas habilidades por meio de experiências práticas.
+Quero construir uma trajetória baseada em fundamentos sólidos, projetos próprios e aprendizado contínuo.
